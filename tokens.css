@@ -1,0 +1,33 @@
+/* conf-search-gen design tokens — cobalt-instrument (dark) generated
+   palette, StyleSeed 4.2.0. Shared by every *-search site.
+   Per-event sites override --ev in their emitted copy. */
+:root{
+ --bg:#020407;--srf:#0A0D0F;--chrome:#131A21;--fg:#EFF2F6;
+ --mut:#A0A5AA;--bdr:#303942;--bdr-soft:rgba(255,255,255,.09);
+ --pri:#43C7AA;--pri-fg:#020305;--acc:#BDACFF;--acc-fg:#020305;
+ --focus:#95C9FF;--ok:#73D083;--warn:#E1AD57;--err:#FF968A;
+ --pri-hov:#55D4B8;--pri-act:#36B296;--pri-glow:rgba(67,199,170,.16);
+ --sel:rgba(67,199,170,.28);
+ --ink-on-dark:#E6EDF3;
+ --thumb-veil:rgba(0,0,0,.7);
+ --thumb-fade:rgba(0,0,0,.55);
+ --well:#000000;
+ --ph:#5B6577;
+ --track:rgba(255,255,255,.07);
+ --chrome-bg:rgba(19,26,33,.92);
+ --spin-track:rgba(2,3,5,.35);
+ --chip-hov:#7BE0C8;
+ --r-s:6px;--r-m:8px;
+ --mono:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+ --ev:#a8e063;
+ /* categorical archive hues — stable data semantics, hub only */
+ --evh-climate-week-search:#34D399;
+ --evh-ethdenver-search:#B78BFF;
+ --evh-glf-search:#A8E063;
+ --evh-bioneers-search:#E0A458;
+ --evh-earthx-search:#63D2E0;
+ --evh-funding-the-commons-search:#7AA2FF;
+ --evh-savory-search:#56AB2F;
+ --evh-refi-search:#5EE9C9;
+ --evh-unfccc-search:#6FB7FF;
+}
