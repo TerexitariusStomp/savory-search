@@ -1,0 +1,115 @@
+{
+  "config": "savory",
+  "slug": "savory-search",
+  "videos": 151,
+  "transcribed": 131,
+  "skipped": [
+    {
+      "id": "tU9f0CwudtY",
+      "title": "Dropping the Fences (docu-series trailer)",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "MPRxlSEU6Xo",
+      "title": "OLIVE LEAF FOUNDATION - OLF",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "X7QSP4DDhYw",
+      "title": "Last Line of Defence Video - Enonkishu Conservancy",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "PkklZRkatS4",
+      "title": "Ovis 21",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "AD_-Io4ui-E",
+      "title": "Savory Network Hub - Ovis 21",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "owhAhXWMGcI",
+      "title": "Durukan Dudu | Ashoka Fellow 2017 (Anadolu Meraları)",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "TKFM8Z0xQbI",
+      "title": "How Timberland made boots with leather from regenerative ranches",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "i54_aVSduUA",
+      "title": "Allan Savory discusses Holistic Policy at Artisans of the Grasslands",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "5LHoh-OKUfU",
+      "title": "Holistic Planned Grazing",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "hRg1hOj-0iQ",
+      "title": "The Power Of Holistic Management, In Pictures",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "GcP9ylomv1Y",
+      "title": "Faces of the Network | Stefan Gernert (Sweden)",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "ZF7SSQST5wg",
+      "title": "Faces of the Network | Ramiro García (Uruguay)",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "jN1S1gKuczk",
+      "title": "NA",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "zRCrBgN9X5E",
+      "title": "Introducción al Manejo Holistico (en Español)",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "rFm3TbYKZYw",
+      "title": "Force of Nature Meats | Meet the Brands Leading Regenerative Agriculture",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "1DDkEL0qmE8",
+      "title": "Planning For Fire & How to Recover After You Have One",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "gzfWGDCi9qc",
+      "title": "Allan Savory: How wildlife can resuscitate dying land",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "8vKvDib_PKw",
+      "title": "What is Holistic Management?",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "g31xwyxD3Rg",
+      "title": "¿Qué es el Manejo Holístico?",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "WGhfsTP1VNo",
+      "title": "¿Qué es el Manejo Holístico?",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    }
+  ],
+  "cues": 170138,
+  "captionSource": {
+    "manual": 6,
+    "auto": 125
+  },
+  "windows": 9167,
+  "speakers": 66
+}
